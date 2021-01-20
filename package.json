@@ -16,5 +16,11 @@
     "nodejs"
   ],
   "author": "alfanshter",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.2.3",
+    "googleapis": "^67.0.0"
+  },
+  "devDependencies": {}
 }
