@@ -1,0 +1,20 @@
+{
+  "name": "absenonline",
+  "version": "1.0.0",
+  "description": "aplikasi rest api firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016dhttps://github.com/alfanshter/REST-API-FIREBASE.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "alfanshter",
+  "license": "ISC"
+}
